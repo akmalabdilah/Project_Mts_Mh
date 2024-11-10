@@ -1,2 +1,2 @@
-![Gambar 1](screenshoot/1.PNG)
-![Gambar 2](screenshoot/2.PNG)
+![Gambar 1](screenshoot/1.png)
+![Gambar 2](screenshoot/2.png)
